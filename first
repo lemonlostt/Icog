@@ -1,2 +1,2 @@
-
-our first filgfgge
+innum=int(input("Enter number"))
+print(innum)
